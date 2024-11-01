@@ -1,6 +1,6 @@
 {
-  "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "name": "portfolio-using-mern",
+  "description": "Portfolio of Ankit",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,5 +29,8 @@
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"
-  }
+  },
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
